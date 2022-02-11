@@ -1,0 +1,57 @@
+/*
+   Project 2
+
+   
+   Author: Mario Durazno	
+   Date:   3/20/17
+
+   Filename: my_styles.css
+   
+
+*/
+
+
+
+body {
+	 background-color: rgb(240, 255, 255);
+      font-family: 'Arial 10', sans-serif;
+     }
+
+
+header h1 {
+           font-weight: normal;
+           color: white;
+           text-align: center;
+          }
+
+
+h2 {
+    background-color: rgb(0, 128, 128);
+    color: yellow;
+   }
+
+p a {
+     text-decoration: none;
+    }
+
+p {
+   font-size: 1.6em;
+   
+  }
+
+h1, h2, h3 {
+            color: white;
+           }
+
+h4, h5, h6 {
+            color: black;
+           }
+
+
+
+
+
+
+
+
+

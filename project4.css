@@ -1,0 +1,18 @@
+/* Audio and video control styles */
+
+
+video
+		{
+		 background-color: black;
+		 display: block;
+		 margin: 5px margin;
+		 width: 50%;	
+		}
+
+audio
+		{
+		 background-color: black;
+		 display: block;
+		 margin: 5px margin;
+		 width: 50%;		
+		}

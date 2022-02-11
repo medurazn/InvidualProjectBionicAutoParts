@@ -1,0 +1,53 @@
+/*
+   New Perspectives on HTML and CSS
+   PROJECT 2
+
+   The Month of April
+   Author: Mario Durazno
+   Date:   04/21/2017
+
+   Filename:         month.css
+
+*/
+
+
+
+
+table.month
+		{
+		 border-collapse: collapse;
+		 display: block;
+		 margin: 20px 0px 20px 60px;
+		}
+
+table caption
+		{
+		 background-color: red;
+		 height: 40px;
+		 text-align: center;
+		 font-size: 2em;
+		 font-family: Lucida Handwriting, sans-serif;
+		}
+
+table thead.days th
+		{
+		 border-collapse: collapse;
+		 border: 3px outset black;
+		 font-size: 20px;	
+		 height: 20px;	
+		 font-family: Arial, sans-serif;
+		 background-color: rgb(250, 240, 230);	
+		 text-align: center;	  
+		}
+
+table.month td 
+		{
+		 font-size: 20px;
+		 color: black;
+		 width: 40px;
+		 height: 40px;
+		 text-align: center;
+		 vertical-align: middle;
+		 border: 3px outset black;
+			  
+		}
